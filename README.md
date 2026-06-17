@@ -10,7 +10,9 @@ compensate the voltage drop across the shunt resistor
 
 Highly precise OPA2187 has been used to ensure precise regulation.
 Precision:
+
 -Voltage regulation 0-12V DC (5mV)
+
 -Current regulation 0-3A (1mA)
 
 The regulator takes 70ms to stabilise the voltage.
