@@ -1,5 +1,5 @@
-# Linear-power-supply-30V-3A
-Regulated lab power supply 0-30V, 0-3A 
+# Linear-power-supply-12-3A
+Regulated lab power supply 0-12, 0-3A 
 
 I used 2x 12V AC transformer 120W.
 Negative voltage has been used to ensure the regulation goes all the way to 0V and 0A.
